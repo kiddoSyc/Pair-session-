@@ -1,4 +1,4 @@
-# Session Id Generator For WhatsApp Bots Using Mega
+hi# Session Id Generator For WhatsApp Bots Using Mega
 
 **It Will Uploads Your Creds To Mega And Will Sends You Id Of That File.**
 
@@ -115,9 +115,6 @@ Note: Make Sure Add Your Email And Password ( Required In mega.js ) Before Runni
 
 ## OTHER PROJECTS:
 
-- [PASTE SESSION](https://github.com/GlobalTechInfo/PAIRING-WEB)
-- [WHATSAPP BOT](https://github.com/GlobalTechInfo/MEGA-AI)
-- [TELEGRAM BOT](https://github.com/GlobalTechInfo/TELEGRAM-AI#readme)
 
 
 
